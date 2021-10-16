@@ -1,0 +1,53 @@
+{
+ "name": "College",
+ "children": [
+  {
+   "name": "Nature Science",
+   "children": [
+    {"name": "Behavioral Science", "value":4},
+    {"name": "Biology", "value":12},
+    {"name": "Chemistry", "value":5},
+    {"name": "Computer Science", "value":5},
+    {"name": "Environment", "value":7},
+    {"name": "Global Health", "value":3},
+    {"name": "Information Science", "value":3},
+    {"name": "Material Science", "value":2},
+    {"name": "Mathematics", "value":17},
+    {"name": "Neuroscience", "value":3},
+    {"name": "Physics", "value":9},
+    {"name": "Psychology", "value":3},
+    {"name": "Statistics", "value":10}
+   ]
+  },
+  {
+   "name": "Social Science",
+   "children": [
+    {"name": "Economics", "value": 8},
+    {"name": "Chinese Society and Cultrue", "value": 1},
+    {"name": "Global China Studies", "value": 10},
+    {"name": "Institutions and Governance", "value": 1},
+    {"name": "Political Economy", "value": 5},
+    {"name": "Political Science", "value": 4},
+    {"name": "Public Policy", "value": 6},
+    {"name": "Social Science", "value": 3},
+    {"name": "Sociology", "value": 3}
+   ]
+  },
+  {
+   "name": "Arts and Humanities",
+   "children": [
+    {"name": "Arts and Humanities", "value": 2},
+    {"name": "Chinese", "value": 8},
+    {"name": "Cultural Anthropology", "value": 4},
+    {"name": "Culturals and Movements", "value": 5},
+    {"name": "Ethics and Leadership", "value": 6},
+    {"name": "History", "value": 12},
+    {"name": "Literature", "value": 3},
+    {"name": "Media and Arts", "value": 15},
+    {"name": "Music", "value": 1},
+    {"name": "Philosophy", "value": 2},
+    {"name": "Religious Studies", "value": 1}
+   ]
+  }
+ ]
+}
